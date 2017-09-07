@@ -10,7 +10,7 @@ jar {
 }
 
 dependencies {
-    compile group: 'edu.gatech.oad.antlab.pkg1', name: 'pkg1', version: '1.0'
+    compile group: 'edu.gatech.oad.antlab', name: 'pkg1', version: '1.0'
     testCompile group: 'junit', name: 'junit', version: '4.+'
 }
 
