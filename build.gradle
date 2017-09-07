@@ -17,13 +17,3 @@ dependencies {
 repositories {
     mavenCentral()
 }
-
-task compileJava {}
-
-task compileTest {}
-
-task javadoc {}
-
-task clean {}
-
-task jar {}
