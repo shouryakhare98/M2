@@ -18,6 +18,12 @@ repositories {
     mavenCentral()
 }
 
-tasks {
+task compileJava {}
 
-}
+task compileTest {}
+
+task javadoc {}
+
+task clean {}
+
+task jar {}
