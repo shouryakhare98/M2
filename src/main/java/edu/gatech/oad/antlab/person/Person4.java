@@ -32,7 +32,8 @@ public class Person4 {
     private String calc(String input) {
         for (int i = 0; i < input.length(); i++) {
             char c = input.charAt(i);
-            c++;
+            String newInput = input.substring(i) + c + input.substring(i + 1, input.length());
+            input = newInput;
         }
         return input;
     }
