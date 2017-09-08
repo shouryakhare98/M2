@@ -88,16 +88,6 @@ import edu.gatech.oad.antlab.pkg2.*;
      public static void main(String[] args) {
 
         new AntLabMain().printOutMessage();
-<<<<<<< HEAD
-        
-     } 
-    
-    
-    
-    
- } 
-=======
-<<<<<<< HEAD
 
      }
 
@@ -105,13 +95,3 @@ import edu.gatech.oad.antlab.pkg2.*;
 
 
  }
-=======
-
-     }
-
-
-
-
- }
->>>>>>> 619c9d5aff42a12ece731ceb8bd8f4a8407e634a
->>>>>>> dd748cb5182285fbf8b1875fbdff963f31b633a1
